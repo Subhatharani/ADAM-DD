@@ -1,6 +1,7 @@
 """
 ADAM-DD: System Verification Script
 Tests all components before running the full application
+hello
 """
 
 import sys
